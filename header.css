@@ -1,0 +1,6 @@
+.cabeçalho__do menu-hamburguer {
+    widtch: 24xp;
+    height: 24xp;
+    background-image: url("../img/menu.svg");
+    display: inline-block;
+}
